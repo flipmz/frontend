@@ -1,0 +1,20 @@
+.Logo {
+  align-self: auto;
+  display: flex;
+  box-sizing: border-box;
+  padding-left: 200px;
+  padding-top: 10px;
+  word-break: break-all;
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+.Logo a {
+  padding-top: 60px;
+  padding-left: 20px;
+  word-wrap: break-word;
+}
+.Logo img {
+  height: 160px;
+  width: 160px;
+}
